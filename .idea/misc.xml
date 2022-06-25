@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/layout/activity_help.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/layout/activity_main.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/layout/activity_reminders.xml" value="0.25833333333333336" />
         <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/layout/content_reminders.xml" value="0.1" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/layout/fragment_rfsd.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/layout/reminder_list_row.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Randomreminder/app/src/main/res/menu/rem_activity_options_menu.xml" value="0.25833333333333336" />
       </map>
     </option>
   </component>

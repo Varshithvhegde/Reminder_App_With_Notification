@@ -521,21 +521,7 @@ public class RemindersActivity extends AppCompatActivity implements ActionMode.C
         return true;
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()) {
-            case R.id.rem_activity_help:
-                openHelp();
-                return true;
 
-            case R.id.rem_activity_sa:
-                shareApp();
-                return true;
-
-            default:
-                return false;
-        }
-    }
 
     protected void shareApp(){
         Intent sAIntent = new Intent();
